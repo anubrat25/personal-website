@@ -1,0 +1,101 @@
+.about {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: pink;
+  overflow-y: scroll;
+  line-height: 32px;
+}
+
+.about-content {
+  width: 47.5rem;
+  height: 100%;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  padding: 20px;
+  line-height: 32px;
+}
+
+.about-header {
+  font-size: 2.4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  width: 100%;
+  font-weight: bold;
+  color: #eef5fc;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  letter-spacing: 0.9px;
+  line-height: 32px;
+}
+
+.first-div {
+  font-size: 1.1rem;
+  color: #dde1e7;
+  padding-bottom: 22.4px;
+  font-weight: 400;
+  letter-spacing: 0.9px;
+  line-height: 32px;
+}
+
+.second-div {
+  font-size: 1.1rem;
+  color: #dde1e7;
+  padding-bottom: 22.4px;
+  font-weight: 400;
+  letter-spacing: 0.9px;
+  line-height: 32px;
+}
+
+.third-div {
+  font-size: 1.1rem;
+  color: #dde1e7;
+  padding-bottom: 40px;
+  font-weight: 400;
+  letter-spacing: 0.9px;
+  line-height: 32px;
+}
+
+.about-subheader {
+  font-size: 1.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  width: 100%;
+  font-weight: 700;
+  color: #eef5fc;
+  font-family: Roboto Mono, sans-serif;
+  padding-bottom: 5px;
+  letter-spacing: 0.12rem;
+  line-height: 32px;
+}
+
+.fourth-div {
+  font-size: 1.1rem;
+  color: #dde1e7;
+  padding-bottom: 22.4px;
+  font-weight: 400;
+  letter-spacing: 0.9px;
+  line-height: 32px;
+}
+
+.left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    font-weight: 500;
+    color: #a8adb2;
+    font-size: .95rem;
+    letter-spacing: 0.9px;
+    cursor: pointer;
+}
+
+.left:hover {
+  color: #4385d7;
+}
