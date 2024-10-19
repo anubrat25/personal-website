@@ -1,6 +1,6 @@
 import React from "react";
 import "../CssFiles/paticularblog.css";
-import twitter from "/twitter.svg";
+import twitter from "../../public/twitter.svg";
 import github from "/github.svg";
 import linkedin from "/linkedin.svg";
 import { useLocation } from "react-router-dom";
