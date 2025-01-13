@@ -121,7 +121,7 @@ body {
   height: 92%;
   width: 92%;
   border-radius: 50%;
-  background-image: url(dp.jpg);
+  background-image: url(../assets/dp.jpg);
   background-size: cover;
 }
 .textdiv {
