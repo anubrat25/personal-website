@@ -56,9 +56,9 @@ const mainpage = () => {
                 <span className="link-about" onClick={gotoAbout}>
                   Hey, I'm Anubrat.
                 </span>{" "}
-                I'm a product
+                I'm a CS student
                 <br />
-                manager and data scientist.
+                specializing in AI.
               </p>
             </div>
             <div className="lower-text">
